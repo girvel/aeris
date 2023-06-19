@@ -1,0 +1,17 @@
+1. Colonized: Indicates that the planet has an established human presence with organized settlements and infrastructure.
+
+2. Uninhabited: Denotes that the planet is devoid of any permanent human or sentient life forms.
+
+3. Terraforming in Progress: Signifies that the planet is undergoing active terraforming efforts, with the intention of making it habitable for colonization.
+
+4. Failed Terraforming: Indicates that the planet's terraforming process was unsuccessful or interrupted, rendering it inhospitable for sustained human habitation.
+
+5. Protected: Denotes that the planet is under protection or conservation efforts, restricting colonization or significant human interference to preserve its natural state.
+
+6. Restricted Access: Signifies limited access to the planet due to scientific research, military operations, or other security reasons.
+
+7. Abandoned Colony: Indicates that the planet was once colonized but has been officially abandoned, with no permanent human presence remaining.
+
+8. Classified: Denotes that the planet's official status is classified or undisclosed due to sensitive information or ongoing operations.
+
+9. Candidate for Terraforming: Signifies that the planet is being considered for future terraforming initiatives but has not yet undergone active transformation.

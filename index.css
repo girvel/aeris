@@ -1,0 +1,30 @@
+#terminal {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+  padding: 10px;
+  overflow-y: scroll;
+}
+
+.input-line {
+  display: flex;
+}
+
+.prompt {
+  white-space: pre;
+}
+
+#input {
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  width: 100%;
+  max-width: 100%;
+}
+
+red {
+  color: var(--red);
+}
