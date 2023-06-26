@@ -23,8 +23,21 @@
   font: inherit;
   width: 100%;
   max-width: 100%;
+  animation: terminal-cursor 1s infinite;
 }
 
 red {
   color: var(--red);
+}
+
+@keyframes terminal-cursor {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
 }
